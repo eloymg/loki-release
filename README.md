@@ -157,6 +157,5 @@ cool new feature
 
 cool feature again
 
-coolest feature yet
 
 need to test something
